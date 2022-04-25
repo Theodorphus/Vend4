@@ -1,0 +1,15 @@
+D:\.Net\VendMachine3\obj\Debug\net6.0\VendMachine3.csproj.AssemblyReference.cache
+D:\.Net\VendMachine3\obj\Debug\net6.0\VendMachine3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\VendMachine3\obj\Debug\net6.0\VendMachine3.AssemblyInfoInputs.cache
+D:\.Net\VendMachine3\obj\Debug\net6.0\VendMachine3.AssemblyInfo.cs
+D:\.Net\VendMachine3\obj\Debug\net6.0\VendMachine3.csproj.CoreCompileInputs.cache
+D:\.Net\VendMachine3\bin\Debug\net6.0\VendMachine3.exe
+D:\.Net\VendMachine3\bin\Debug\net6.0\VendMachine3.deps.json
+D:\.Net\VendMachine3\bin\Debug\net6.0\VendMachine3.runtimeconfig.json
+D:\.Net\VendMachine3\bin\Debug\net6.0\VendMachine3.dll
+D:\.Net\VendMachine3\bin\Debug\net6.0\ref\VendMachine3.dll
+D:\.Net\VendMachine3\bin\Debug\net6.0\VendMachine3.pdb
+D:\.Net\VendMachine3\obj\Debug\net6.0\VendMachine3.dll
+D:\.Net\VendMachine3\obj\Debug\net6.0\ref\VendMachine3.dll
+D:\.Net\VendMachine3\obj\Debug\net6.0\VendMachine3.pdb
+D:\.Net\VendMachine3\obj\Debug\net6.0\VendMachine3.genruntimeconfig.cache
